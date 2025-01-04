@@ -13,7 +13,7 @@ GPT-3 (Generative Pre-trained Transformer 3) is a language model developed by Op
 
 Below is a diagram of GPT-3's neural network architecture for better understanding:  
 
-![GPT-3 Neural Network Architecture](path/to/image.png)  
+![GPT-3 Neural Network Architecture](https://upload.wikimedia.org/wikipedia/commons/5/51/Full_GPT_architecture.svg)  
 
 ---
 
