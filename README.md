@@ -56,3 +56,22 @@ project-gpt3-specialization/
 ├── .gitignore              # Files to ignore by Git
 ├── README.md               # Project description
 └── LICENSE                 # Project license
+```
+
+## Contact :busts_in_silhouette:
+Feel free to reach out to us if you have any questions or suggestions:
+
+**Chaimae BOUYARMANE** 
+
+ <a href="https://linkedin.com/in/chaimae-bouyarmane-14882622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaimae bouyarmane" height="30" width="40" /></a>
+<a href="https://github.com/chaimaebouyarmane" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+</a> 
+
+**Moussa Kalla**
+
+ <a href="https://www.linkedin.com/in/moussa-kalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moussa Kalla" height="30" width="40" /></a>
+<a href="https://github.com/Moussa-Kalla" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Votre nom" height="30" width="40" />
+  
+---
